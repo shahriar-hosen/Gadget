@@ -1,0 +1,41 @@
+.navbar img{
+    height: 50px;
+}
+.bg-1{
+    background-image: url(Images/bg-1.png);
+    background-size: contain;
+    background-position: 42%;
+    background-repeat: no-repeat;
+}
+.buy-btn{
+   color: white;
+   background-color: black;
+   padding: 9px 25px;
+   border-radius: 8px ;
+}
+.hero{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 25px lightgray;
+}
+.col-md-3 img{
+    width: 100px;
+    padding
+}
+.b-cat{
+    margin-top: 100px;
+    box-shadow: 5px 5px 20px lightgray;
+    width: 165px;
+    padding: 20px;
+}
+.b-mid{
+    box-shadow: 5px 5px 20px lightgray;
+    width: 165px;
+    padding: 20px;
+    margin-bottom: 50px;
+}
